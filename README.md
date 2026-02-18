@@ -18,33 +18,22 @@ Successfully transformed an HP Envy dv7 laptop into a dedicated Pi-hole DNS serv
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Pi-Hole Install/IP Assignment/ Status : <br/>
-<img src="images/BashTerminal" height="80%" width="80%" alt="Bash terminal showing Pi-Hole install and configuration commands."/>
+Pi-Hole Install / Status / IP Verification : <br/>
+<img src="images/BashTerminal.png" height="80%" width="80%" alt="Bash terminal showing Pi-Hole install and configuration commands."/>
 <br />
 <br />
 Static IP Configuration :  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/Static IP Configuration.png" height="80%" width="80%" alt="Router Web Interface Static IP Configuration Page"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+WAN DNS Configuration : <br/>
+<img src="images/DNS Server Configuration.png" height="80%" width="80%" alt="Router Web Interface WAN Settings DNS Static Configuration"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Pi-Hole Ad-Blocker Dashboard :  <br/>
+<img src="images/Pi-Hole Dashboard.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
