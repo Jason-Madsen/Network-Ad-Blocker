@@ -34,7 +34,9 @@ Pi-Hole Ad-Blocker Dashboard :  <br/>
 <img src="images/Pi-Hole Dashboard.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-
+<h2>Challenges</h2>
+While configuring the HP Envy dv7 challenges arose as I incorrectly saved teh dns server to the wrong address (182.168.0.122) This led to the entire network shutting down and I was unable to reconnect to my router from the app on my phone nor the ethernet cable into the wall. I had to plug the ethernet cable directly into the router so that I could access the Web Interface and reset the DNS configuration automatic. The difficulties here were that every time I needed to reset it, it needed to reboot. Unfortunately each time I rebooted, the connection timed out because it couldn't reconnect to the internet due to the misconfigured WAN DNS. Finally, I was able to reset the router by cutting the power to it and letting it reboot itself for a few minutes. I was then able to reset the WAN DNS configuration to automatic and I decided to test the DNS server through the HP Envy on my phone only. After successfully connecting I felt confident to reconfigure the WAN DNS to the HP Envy and was able to successfully connect on all devices.
+<br />
 <!--
  ```diff
 - text in red
