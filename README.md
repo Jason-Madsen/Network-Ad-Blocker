@@ -19,7 +19,7 @@ Successfully transformed an HP Envy dv7 laptop into a dedicated Pi-hole DNS serv
 
 <p align="center">
 Pi-Hole Install/IP Assignment/ Status : <br/>
-<img src="https://imgur.com/a/2NU3Vgy" height="80%" width="80%" alt="Bash terminal showing Pi-Hole install and configuration commands."/>
+<img src="images/BashTerminal" height="80%" width="80%" alt="Bash terminal showing Pi-Hole install and configuration commands."/>
 <br />
 <br />
 Static IP Configuration :  <br/>
